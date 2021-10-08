@@ -1,0 +1,79 @@
+{
+  "id": "2691685",
+  "name": "stuBBS",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "700827",
+      "name": "菜单",
+      "font_class": "caidan",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "20226401",
+      "name": "菜单_2",
+      "font_class": "caidan_2",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "584251",
+      "name": "右箭头",
+      "font_class": "iconfontjiantou5",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "936757",
+      "name": "右箭头",
+      "font_class": "youjiantou",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "1020323",
+      "name": "右箭头",
+      "font_class": "youjiantou1",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "9626841",
+      "name": "错误",
+      "font_class": "cuowu1",
+      "unicode": "e867",
+      "unicode_decimal": 59495
+    },
+    {
+      "icon_id": "23023111",
+      "name": "新建",
+      "font_class": "xinjian",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "5809239",
+      "name": "左箭头",
+      "font_class": "zuojiantou",
+      "unicode": "e6a5",
+      "unicode_decimal": 59045
+    },
+    {
+      "icon_id": "22951789",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "22951793",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    }
+  ]
+}
